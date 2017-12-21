@@ -7,6 +7,13 @@
         <element id="directory" name="classes">
           <element id="module-output" name="my-platform" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring Security-3.2.5" />
+          <element id="library" level="project" name="Spring Web Services-2.0.2" />
+          <element id="library" level="project" name="Spring MVC-4.3.13.RELEASE" />
+          <element id="library" level="project" name="Spring-4.3.13.RELEASE" />
+          <element id="library" level="project" name="Hibernate 5.2.12-5.2.12" />
+        </element>
       </element>
     </root>
   </artifact>
