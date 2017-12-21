@@ -14,4 +14,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
         return "Home/index";
     }
 
+
+    @RequestMapping("/about")
+    public String showAboutPage(){
+        return "Home/about";
+    }
 }
